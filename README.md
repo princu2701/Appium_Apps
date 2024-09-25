@@ -1,7 +1,7 @@
 # Appium Apps
 
 ## Overview
-This project showcases various Appium applications developed for mobile automation testing. The framework is designed to facilitate the interaction with mobile applications by providing functionalities to start and stop the emulator directly from the IDE.
+This project showcases various Appium applications developed for mobile automation testing. The framework is designed to facilitate the interaction with mobile applications by providing functionalities to start and stop the emulator from the IDE.
 
 ## Features
 - **Emulator Control**: Easily start and stop the Android emulator.
